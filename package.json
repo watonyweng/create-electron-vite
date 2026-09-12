@@ -45,15 +45,15 @@
     "prompts": "^2.4.2"
   },
   "devDependencies": {
-    "@types/node": "^22.1.0",
+    "@types/node": "^22.20.2",
     "@types/prompts": "^2.4.9",
-    "electron": "^33.0.2",
-    "execa": "^9.3.0",
-    "playwright": "^1.48.2",
-    "pnpm": "9.7.0",
+    "electron": "^33.4.11",
+    "execa": "^9.6.1",
+    "playwright": "^1.63.0",
+    "pnpm": "9.15.9",
     "typescript": "^5.5.4",
-    "vite": "^5.4.0",
-    "vitest": "^2.0.5"
+    "vite": "^5.4.21",
+    "vitest": "^2.1.9"
   },
-  "packageManager": "pnpm@9.7.0"
+  "packageManager": "pnpm@9.15.9"
 }
